@@ -2,7 +2,7 @@
 # Problem Statement
 
 # Peak Finder : One-dimensional Version
-# Position 1 is a peak if and only if b ≥ a and b ≥ c. Position 8 is a peak if i > h. Position 1 is a peak if a > b.
+# Position 1 is a peak if and only if b ≥ a and b ≥ c. Position 8 is a peak if i > h. Position 0 is a peak if a > b.
 # list =  [ a, b, c, d, e, f, g, h, i]
 # index ->  0  1  2  3  4  5  6  7  8
 
